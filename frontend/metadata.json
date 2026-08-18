@@ -1,0 +1,6 @@
+{
+  "name": "智聘AI - HR智能招聘工作台",
+  "description": "专为HR团队打造的AI智能招聘助手，提供结构化简历智能初筛与历史打分报告导出，以及精准高效的JD生成与历史版本管理智能体。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

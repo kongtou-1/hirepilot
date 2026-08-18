@@ -1,0 +1,13 @@
+# 依赖清单（与 pyproject.toml 保持一致，供 uv venv 创建后用 venv 内 pip 安装）
+fastapi>=0.110
+uvicorn[standard]>=0.27
+sqlalchemy>=2.0
+pydantic>=2.6
+python-dotenv>=1.0
+# 真实大模型（OpenAI 兼容端点）调用
+openai>=1.0
+httpx>=0.27
+# 简历文档文本提取（PDF/Word/纯文本）
+pypdf>=4.0
+python-docx>=1.1
+python-multipart>=0.0.9
